@@ -1,0 +1,16 @@
+{
+  "name": "alexafy",
+  "version": "1.0.0",
+  "description": "NodeJS framework for building Amazon Alexa Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mitchell Lee <mitch@evildev.net>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "3.0.5",
+    "body-parser": "1.14.1"
+  }
+}
